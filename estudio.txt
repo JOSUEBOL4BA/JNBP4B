@@ -1,0 +1,13 @@
+<html>
+<head><title>Estudios realizdos</title>
+</head>
+<body bgcolor="     ">
+<h1>Estudios realizados</h1><br>
+<p>primaria:
+</p>Naciones unidas 2 de 1ro. a 6to.primaria
+<p>Basicos:
+</p>nueva santa isabel II de 1ro a 3ro basico 
+<p>Diversificado
+</p>IPC 4to.Bach
+</body>
+</html>

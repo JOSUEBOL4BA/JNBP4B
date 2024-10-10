@@ -1,0 +1,9 @@
+<Html><head><litle>informacion Personal</litle>
+</head>
+<body by color="#E8E035">
+<H1>Informacion Personal</h1><br>
+Nombre:Josue
+Apellido:Bol
+Grado:4to bach
+fecha nacimiento:18/08/2007
+correo electronico:santosbolpana675@gmail.com
